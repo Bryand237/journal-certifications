@@ -10,7 +10,6 @@
 - La maintenance des données
 - Maintenir ma vie privée en ligne
 - Les actions et comportements à risque
-- 
 
 ## Ce que j'ai trouvé difficile
 - L'analyse d'une cyber-attaque
