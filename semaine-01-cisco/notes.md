@@ -8,4 +8,4 @@
 - (une ou deux lignes honnêtes)
 
 ## Preuve
-Badge : ./introduction-to-cybersecurity.png
+Badge : semaine-01-cisco/introduction-to-cybersecurity.png
