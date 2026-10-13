@@ -17,4 +17,4 @@
 
 ## Preuve
 - Badge : [Badge](introduction-to-cybersecurity.png)
-- Certificat : [Certificat](semaine-01-cisco/Introduction_to_Cybersecurity_certificate_djounkambryand237-gmail-com_aaf07bcd-c95c-42a4-b735-3a41c1ddbb14.pdf)
+- Certificat : [Certificat](Introduction_to_Cybersecurity_certificate_djounkambryand237-gmail-com_aaf07bcd-c95c-42a4-b735-3a41c1ddbb14.pdf)
